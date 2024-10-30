@@ -62,25 +62,6 @@ Customize Difficulty:
     Buttons are locked during solving to prevent interference, and the board updates with each step of the solution.
 
 
-🤝 Contributing
-
-Feel free to contribute to this project by forking the repository and submitting a pull request. Make sure to follow these steps:
-
-1- Fork the project.
-2-Create your feature branch:
-
-    git checkout -b feature/new-feature
-
-3-Commit your changes:
-
-    git commit -m 'Add some feature'
-
-4-Push to the branch:
-
-    git push origin feature/new-feature
-
-5-Open a pull request.
-
 
 📄 License
 
