@@ -1,18 +1,26 @@
-# Sudoku Solver & Generator
+# Tic-Tac-Toe Using Search Algorithms
 
-A web-based Sudoku puzzle generator and solver built using HTML, CSS, and JavaScript. The application allows users to generate random Sudoku puzzles with adjustable difficulty and provides a visual backtracking algorithm to solve the puzzle step-by-step.
+A web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The application allows users to play Tic-Tac-Toe against an AI that uses search algorithms to determine its moves.
 
+## 🗂️ Table of Contents
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [How It Works](#how-it-works)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Contact](#contact)
 
-🛠️ Features
+## 🛠️ Features
+- **Random Puzzle Generation**: Generates Sudoku puzzles with customizable difficulty.
+- **Visual Backtracking Solver**: Displays each step of the backtracking algorithm in real-time.
+- **Modern Design**: A clean and responsive interface using CSS.
+- **Interactive UI**: Users can generate new puzzles or solve them with a single click.
+- **Button Locking**: Prevents multiple clicks during solving to ensure correct behavior.
 
-    Random Puzzle Generation: Generates Sudoku puzzles with customizable difficulty.
-    Visual Backtracking Solver: Displays each step of the backtracking algorithm in real-time.
-    Modern Design: A clean and responsive interface using CSS.
-    Interactive UI: Users can generate new puzzles or solve them with a single click.
-    Button Locking: Prevents multiple clicks during solving to ensure correct behavior.
-
-
-📂 Project Structure
+## 📂 Project Structure
 
     /project-folder
     │
@@ -77,6 +85,6 @@ Backtracking and forward checking inspiration from various online sources.
 
 For any questions or feedback, feel free to reach out:
 
--GitHub: https://github.com/abdullahM245/Tic-Tac_Toe-Using-Search-Algorithms
+- GitHub: https://github.com/abdullahM245/Tic-Tac_Toe-Using-Search-Algorithms
 
--Email: abdullahmousa.work@gmail.com
+- Email: abdullahmousa.work@gmail.com
