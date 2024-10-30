@@ -23,8 +23,8 @@ A web-based Sudoku puzzle generator and solver built using HTML, CSS, and JavaSc
 
 Clone the repository:
 
-    git clone https://github.com/abdullahM245/Tic-Tac_Toe-Using-Search-Algorithms.git
-    cd sudoku-solver
+    git clone https://github.com/abdullahM245/Sudoku-Game-Using-CSP-Algorithm.git
+    cd Sudoku-Game-Using-CSP-Algorithm
 
 Open the project in Visual Studio Code:
 
