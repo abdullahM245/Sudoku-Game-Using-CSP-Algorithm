@@ -1,16 +1,6 @@
 # Sudoku Using CSP Algorithms
 A web-based Sudoku puzzle generator and solver built using HTML, CSS, and JavaScript. The application uses Constraint Satisfaction Problem (CSP) algorithms, including Backtracking and forward checking, to generate and solve Sudoku puzzles.
 
-## 🗂️ Table of Contents
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
 
 ## 🛠️ Features
 - **Random Puzzle Generation**: Generates Sudoku puzzles with customizable difficulty.
