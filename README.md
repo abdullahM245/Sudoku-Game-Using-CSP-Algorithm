@@ -1,6 +1,5 @@
-# Tic-Tac-Toe Using Search Algorithms
-
-A web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The application allows users to play Tic-Tac-Toe against an AI that uses search algorithms to determine its moves.
+# Sudoku Using CSP Algorithms
+A web-based Sudoku puzzle generator and solver built using HTML, CSS, and JavaScript. The application uses Constraint Satisfaction Problem (CSP) algorithms, including Backtracking and forward checking, to generate and solve Sudoku puzzles.
 
 ## 🗂️ Table of Contents
 - [Features](#features)
