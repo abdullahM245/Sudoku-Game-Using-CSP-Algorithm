@@ -11,6 +11,7 @@ A web-based Sudoku puzzle generator and solver built using HTML, CSS, and JavaSc
     Interactive UI: Users can generate new puzzles or solve them with a single click.
     Button Locking: Prevents multiple clicks during solving to ensure correct behavior.
 
+
 📂 Project Structure
 
     /project-folder
@@ -19,6 +20,7 @@ A web-based Sudoku puzzle generator and solver built using HTML, CSS, and JavaSc
     ├── styles.css         # CSS for styling the UI
     ├── script.js          # JavaScript logic for puzzle generation and solving
     └── README.md          # Documentation (this file)
+
 
 🖥️ Installation
 
@@ -34,6 +36,7 @@ Open the project in Visual Studio Code:
 Open the application:
 
    Simply open the index.html file in your browser.
+
     
 🔑 Usage
 
@@ -46,6 +49,7 @@ Solve the Puzzle:
 Customize Difficulty:
     Adjust the difficulty in the createPuzzle() function inside script.js by changing the number of cells displayed (default: 60).
 
+
 ⚙️ How It Works
 
 1-Puzzle Generation:
@@ -56,6 +60,7 @@ Customize Difficulty:
 
 3-UI Handling:
     Buttons are locked during solving to prevent interference, and the board updates with each step of the solution.
+
 
 🤝 Contributing
 
@@ -76,6 +81,7 @@ Feel free to contribute to this project by forking the repository and submitting
 
 5-Open a pull request.
 
+
 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
@@ -85,9 +91,11 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Sudoku Algorithm Reference
 Backtracking and forward checking inspiration from various online sources.
 
+
 📧 Contact
 
 For any questions or feedback, feel free to reach out:
 
 -GitHub: https://github.com/abdullahM245/Tic-Tac_Toe-Using-Search-Algorithms
+
 -Email: abdullahmousa.work@gmail.com
