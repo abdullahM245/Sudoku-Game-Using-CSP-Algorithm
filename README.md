@@ -48,32 +48,28 @@ Open the application:
     
 🔑 Usage
 
-Generate a New Puzzle:
+- Generate a New Puzzle:
     Click the "New Puzzle" button to generate a random Sudoku board.
 
-Solve the Puzzle:
+- Solve the Puzzle:
     Click the "Solve" button to watch the backtracking algorithm solve the puzzle step-by-step.
 
-Customize Difficulty:
+- Customize Difficulty:
     Adjust the difficulty in the createPuzzle() function inside script.js by changing the number of cells displayed (default: 60).
 
 
 ⚙️ How It Works
 
-1-Puzzle Generation:
+- Puzzle Generation:
     The createPuzzle() function removes a random number of cells from a fully filled Sudoku board to create a playable puzzle.
 
-2-Backtracking Solver:
+- Backtracking Solver:
     The solvePuzzle() function applies backtracking with forward checking, trying different values until the board is solved.
 
-3-UI Handling:
+- UI Handling:
     Buttons are locked during solving to prevent interference, and the board updates with each step of the solution.
 
 
-
-📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 💡 Acknowledgments
 
